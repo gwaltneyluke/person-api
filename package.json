@@ -1,0 +1,25 @@
+{
+  "name": "person-api",
+  "version": "1.0.0",
+  "description": "An Express NodeJS API for Disney characters",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "disney",
+    "characters",
+    "people"
+  ],
+  "author": "Luke Gwaltney",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
